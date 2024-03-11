@@ -16,7 +16,7 @@ gem "bootsnap", require: false
 group :development, :test do
   gem "debug", platforms: %i[ mri windows ]
 end
-
+s
 group :development do
   gem "web-console"
 end
